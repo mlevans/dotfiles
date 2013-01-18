@@ -30,4 +30,3 @@ set backspace=2
 set history=1000
 
 set mouse=a
-
