@@ -6,3 +6,5 @@ alias mem='top -o vsize'
 
 # ls in color
 alias ls='ls -G'
+
+alias c='clear'
