@@ -8,3 +8,6 @@ alias mem='top -o vsize'
 alias ls='ls -G'
 
 alias c='clear'
+
+# CSS minification; css-min filename
+alias css-min='java -jar ~/production/yuicompressor-2.4.8.jar --type css -o style-min.css'
